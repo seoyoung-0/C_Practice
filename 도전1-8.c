@@ -10,7 +10,7 @@ int main() {
 	printf("num :");
 	scanf_s("%d", &num);
 
-	printf("2ÀÇ %d½ÂÀº %d", num, recursive(num));
+	printf("2ÀÇ   %d½ÂÀº %d", num, recursive(num));
 
 }
 
