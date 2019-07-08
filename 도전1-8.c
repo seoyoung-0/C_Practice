@@ -7,7 +7,7 @@ int recursive(num) {
 }
 int main() {
 	int num;
-	printf("Á¤¼ö ÀÔ·Â :");
+	printf("num :");
 	scanf_s("%d", &num);
 
 	printf("2의 %d 승: %d", num, recursive(num));
