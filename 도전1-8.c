@@ -7,9 +7,9 @@ int recursive(num) {
 }
 int main() {
 	int num;
-	printf("Á¤¼ö ÀÔ·Â :");
+	printf("ÃÂ¤Â¼Ã¶ Ã€Ã”Â·Ã‚ :");
 	scanf_s("%d", &num);
 
-	printf("2ÀÇ %d½ÂÀº %d", num, recursive(num));
+	printf("2ì˜ %d ìŠ¹: %d", num, recursive(num));
 
 }
