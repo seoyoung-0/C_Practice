@@ -13,5 +13,5 @@ int main() {
 		result = result * 2;
 		k++;
 	}
-	printf("k�� �ִ밪; %d", k);
+	printf("k의 최대값: %d", k);
 }

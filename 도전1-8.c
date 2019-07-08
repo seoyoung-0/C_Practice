@@ -13,3 +13,4 @@ int main() {
 	printf("2ÀÇ %d½ÂÀº %d", num, recursive(num));
 
 }
+
