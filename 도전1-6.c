@@ -5,7 +5,7 @@ int main() {
 	int sec;
 	int h, m;
 
-	printf("รส(second) ภิทย :");
+	printf("second :");
 	scanf_s("%d", &sec);
 
 	h = sec / 3600;
