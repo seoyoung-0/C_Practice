@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main() {
 
@@ -13,5 +13,5 @@ int main() {
 		result = result * 2;
 		k++;
 	}
-	printf("k의 최대값: %d", k);
+	printf("k max value: %d", k);
 }
