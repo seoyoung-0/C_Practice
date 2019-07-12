@@ -14,6 +14,7 @@ int even(int* ptr, int arySize) {
 		if (ptr[i] % 2 == 0)
 			printf("%d ", ptr[i]);
 	}
+
 }
 
 int main(){
